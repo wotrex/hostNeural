@@ -1,0 +1,6 @@
+imagezmq==1.1.1
+opencv-python==4.5.5.64
+pickleshare==0.7.5
+pyzmq==22.3.0
+websocket-client==0.57.0
+numpy==1.20.3
